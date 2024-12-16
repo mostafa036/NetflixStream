@@ -1,0 +1,6 @@
+@NetflixStream.WebAPIs_HostAddress = http://localhost:5091
+
+GET {{NetflixStream.WebAPIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

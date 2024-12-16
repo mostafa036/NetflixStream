@@ -1,0 +1,22 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Movies\Trailer\2024-11-04-01-52-28_fnt33mw4_The Shawshank Redemption - Trailer - (1994) - HQ_2.mp4'))">
+      <SourceType>Package</SourceType>
+      <SourceId>NetflixStream.WebAPIs</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/NetflixStream.WebAPIs</BasePath>
+      <RelativePath>Movies/Trailer/2024-11-04-01-52-28_fnt33mw4_The Shawshank Redemption - Trailer - (1994) - HQ_2.mp4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>l9jvnmf37o</Fingerprint>
+      <Integrity>SbIhdMeh0M9A6D7X6zU8XG7/fQTyWHwRkEidSMuCrWQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Movies\Trailer\2024-11-04-01-52-28_fnt33mw4_The Shawshank Redemption - Trailer - (1994) - HQ_2.mp4'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

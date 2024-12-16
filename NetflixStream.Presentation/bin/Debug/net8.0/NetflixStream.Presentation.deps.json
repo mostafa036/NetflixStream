@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NetflixStream.Presentation/1.0.0": {
+        "runtime": {
+          "NetflixStream.Presentation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetflixStream.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+E:\Projects .NET\NetflixStream\NetflixStream.Presentation\bin\Debug\net8.0\NetflixStream.Presentation.deps.json
+E:\Projects .NET\NetflixStream\NetflixStream.Presentation\bin\Debug\net8.0\NetflixStream.Presentation.dll
+E:\Projects .NET\NetflixStream\NetflixStream.Presentation\bin\Debug\net8.0\NetflixStream.Presentation.pdb
+E:\Projects .NET\NetflixStream\NetflixStream.Presentation\obj\Debug\net8.0\NetflixStream.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects .NET\NetflixStream\NetflixStream.Presentation\obj\Debug\net8.0\NetflixStream.Presentation.AssemblyInfoInputs.cache
+E:\Projects .NET\NetflixStream\NetflixStream.Presentation\obj\Debug\net8.0\NetflixStream.Presentation.AssemblyInfo.cs
+E:\Projects .NET\NetflixStream\NetflixStream.Presentation\obj\Debug\net8.0\NetflixStream.Presentation.csproj.CoreCompileInputs.cache
+E:\Projects .NET\NetflixStream\NetflixStream.Presentation\obj\Debug\net8.0\NetflixStream.Presentation.dll
+E:\Projects .NET\NetflixStream\NetflixStream.Presentation\obj\Debug\net8.0\refint\NetflixStream.Presentation.dll
+E:\Projects .NET\NetflixStream\NetflixStream.Presentation\obj\Debug\net8.0\NetflixStream.Presentation.pdb
+E:\Projects .NET\NetflixStream\NetflixStream.Presentation\obj\Debug\net8.0\ref\NetflixStream.Presentation.dll

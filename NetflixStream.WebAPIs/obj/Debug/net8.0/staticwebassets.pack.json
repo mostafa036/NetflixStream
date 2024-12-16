@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Projects .NET\\NetflixStream\\NetflixStream.WebAPIs\\wwwroot\\Movies\\Trailer\\2024-11-04-01-52-28_fnt33mw4_The Shawshank Redemption - Trailer - (1994) - HQ_2.mp4",
+      "PackagePath": "staticwebassets\\Movies\\Trailer\\2024-11-04-01-52-28_fnt33mw4_The Shawshank Redemption - Trailer - (1994) - HQ_2.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NetflixStream.WebAPIs.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NetflixStream.WebAPIs.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.NetflixStream.WebAPIs.props",
+      "PackagePath": "build\\NetflixStream.WebAPIs.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.NetflixStream.WebAPIs.props",
+      "PackagePath": "buildMultiTargeting\\NetflixStream.WebAPIs.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.NetflixStream.WebAPIs.props",
+      "PackagePath": "buildTransitive\\NetflixStream.WebAPIs.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,12 @@
+E:\Projects .NET\NetflixStream\NetflixStream.Domain\bin\Debug\net8.0\NetflixStream.Domain.deps.json
+E:\Projects .NET\NetflixStream\NetflixStream.Domain\bin\Debug\net8.0\NetflixStream.Domain.dll
+E:\Projects .NET\NetflixStream\NetflixStream.Domain\bin\Debug\net8.0\NetflixStream.Domain.pdb
+E:\Projects .NET\NetflixStream\NetflixStream.Domain\obj\Debug\net8.0\NetflixStream.Domain.csproj.AssemblyReference.cache
+E:\Projects .NET\NetflixStream\NetflixStream.Domain\obj\Debug\net8.0\NetflixStream.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects .NET\NetflixStream\NetflixStream.Domain\obj\Debug\net8.0\NetflixStream.Domain.AssemblyInfoInputs.cache
+E:\Projects .NET\NetflixStream\NetflixStream.Domain\obj\Debug\net8.0\NetflixStream.Domain.AssemblyInfo.cs
+E:\Projects .NET\NetflixStream\NetflixStream.Domain\obj\Debug\net8.0\NetflixStream.Domain.csproj.CoreCompileInputs.cache
+E:\Projects .NET\NetflixStream\NetflixStream.Domain\obj\Debug\net8.0\NetflixStream.Domain.dll
+E:\Projects .NET\NetflixStream\NetflixStream.Domain\obj\Debug\net8.0\refint\NetflixStream.Domain.dll
+E:\Projects .NET\NetflixStream\NetflixStream.Domain\obj\Debug\net8.0\NetflixStream.Domain.pdb
+E:\Projects .NET\NetflixStream\NetflixStream.Domain\obj\Debug\net8.0\ref\NetflixStream.Domain.dll

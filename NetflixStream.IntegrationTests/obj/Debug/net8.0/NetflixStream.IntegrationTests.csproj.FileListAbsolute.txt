@@ -1,0 +1,11 @@
+E:\Projects .NET\NetflixStream\NetflixStream.IntegrationTests\bin\Debug\net8.0\NetflixStream.IntegrationTests.deps.json
+E:\Projects .NET\NetflixStream\NetflixStream.IntegrationTests\bin\Debug\net8.0\NetflixStream.IntegrationTests.dll
+E:\Projects .NET\NetflixStream\NetflixStream.IntegrationTests\bin\Debug\net8.0\NetflixStream.IntegrationTests.pdb
+E:\Projects .NET\NetflixStream\NetflixStream.IntegrationTests\obj\Debug\net8.0\NetflixStream.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects .NET\NetflixStream\NetflixStream.IntegrationTests\obj\Debug\net8.0\NetflixStream.IntegrationTests.AssemblyInfoInputs.cache
+E:\Projects .NET\NetflixStream\NetflixStream.IntegrationTests\obj\Debug\net8.0\NetflixStream.IntegrationTests.AssemblyInfo.cs
+E:\Projects .NET\NetflixStream\NetflixStream.IntegrationTests\obj\Debug\net8.0\NetflixStream.IntegrationTests.csproj.CoreCompileInputs.cache
+E:\Projects .NET\NetflixStream\NetflixStream.IntegrationTests\obj\Debug\net8.0\NetflixStream.IntegrationTests.dll
+E:\Projects .NET\NetflixStream\NetflixStream.IntegrationTests\obj\Debug\net8.0\refint\NetflixStream.IntegrationTests.dll
+E:\Projects .NET\NetflixStream\NetflixStream.IntegrationTests\obj\Debug\net8.0\NetflixStream.IntegrationTests.pdb
+E:\Projects .NET\NetflixStream\NetflixStream.IntegrationTests\obj\Debug\net8.0\ref\NetflixStream.IntegrationTests.dll
